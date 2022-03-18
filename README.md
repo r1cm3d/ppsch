@@ -1,7 +1,5 @@
 # ppsch 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/r1cm3d?style=social)](https://twitter.com/RMedeirosCosta)
-
 **TL;DR:**
 ```console
 ./ppsch --table 'MY_DYNAMO_DB_TABLE' --days 10 --file stub
