@@ -4,7 +4,7 @@
 
 **TL;DR:**
 ```console
-./ppsch --table 'MY_DYNAMO_DB_TABLE' --days 10
+./ppsch --table 'MY_DYNAMO_DB_TABLE' --days 10 --file stub
 ```
 
 ## Prerequisites
