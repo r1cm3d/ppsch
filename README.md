@@ -9,7 +9,7 @@
 
 ## Prerequisites
 [![aws-cli](https://img.shields.io/badge/aws--cli-2.4.26-yellow)](https://github.com/aws/aws-cli)
-[![jq](https://github.com/stedolan/jq)](https://github.com/stedolan/jq)
+[![jq](https://img.shields.io/badge/jq-1.6-gray)](https://github.com/stedolan/jq)
 
 ## Table of Contents
 * [TL;DR](#ppsch)
