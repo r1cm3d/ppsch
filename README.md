@@ -30,7 +30,7 @@ This is script receives a file (stdin or by argument) and increases TTL attribut
 Help information will be displayed:
 
 ```console
-ch: command-line interface to postpone authorizations scheduler
+ppsch: command-line interface to postpone authorizations scheduler
 Usage:
       ppsch [ options ]
 Options: 
